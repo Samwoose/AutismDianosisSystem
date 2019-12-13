@@ -7,7 +7,7 @@ They are distinguished by (1)Wall Following Robot data set for Robot Movement Re
 To repoduce the results in the report, you can run main_autism.py with any python IDE such as jupytor notebook, subtext, and visual studio.
 
 ***Warning***
-Since there is some randomness when data sets are created in proprocessing_autism.py, you will not get the same results from the report if you run preprocessing_sutism.py before you run main_autism.py. 
+Since there is some randomness when data sets are created in proprocessing_autism.py, you will not get the same results from the report if you run preprocessing_autism.py before you run main_autism.py. 
 
 Use preprocessing_autism.py and training_autism.py as only references.
 
