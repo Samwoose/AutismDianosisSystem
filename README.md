@@ -10,3 +10,7 @@ To repoduce the results in the report, you can run main_autism.py with any pytho
 Since there is some randomness when data sets are created in proprocessing_autism.py, you will not get the same results from the report if you run preprocessing_sutism.py before you run main_autism.py. 
 
 Use preprocessing_autism.py and training_autism.py as only references.
+
+***Tips***
+If there is any error related to path, please double check you are using right paths when you run the .py files.
+
